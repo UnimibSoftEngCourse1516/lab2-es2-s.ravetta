@@ -9,4 +9,8 @@ public class Class1 {
 	public void firtsMethod() {
 		
 	}
+	
+	public void secondMethod() {
+		
+	}
 }
